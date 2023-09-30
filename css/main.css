@@ -449,7 +449,7 @@ ul {
 
 /* MOBILE */
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 480px) {
 
     /* SIZE RESET */
 
@@ -872,7 +872,7 @@ ul {
 
 /* TABLET */
 
-@media screen and (min-width: 361px) and (max-width: 835px) {
+@media screen and (min-width: 481px) and (max-width: 835px) {
 
     /* SIZE RESET */
 
